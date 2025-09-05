@@ -28,11 +28,6 @@ Users can enter a long URL, generate a short one, store it in a **local MongoDB*
 
 ### 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/<your-username>/url-shortener.git
-cd url-shortener
-```
-
 ### 2️⃣ Install Dependencies
 
 Install required modules for both backend and frontend:
