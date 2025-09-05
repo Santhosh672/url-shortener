@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+dist
+dist-ssr
+*.local
+
+# Build outputs
+dist/
+client/dist/
+server/dist/
+build/
+client/build/
+server/build/
+
+# Environment variables
+.env
+.env.*   
+# In case you use multiple env files
+client/.env
+server/.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Coverage / testing
+coverage/
+*.lcov
+
+# AWS/Cloud uploads (if stored locally)
+uploads/
+
+# TypeScript cache (if you add TS later)
+*.tsbuildinfo
