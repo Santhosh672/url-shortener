@@ -1,7 +1,3 @@
-Got it 👍 Here’s the **plain text** you can paste directly into your `README.md` file on GitHub:
-
----
-
 # URL Shortener (MERN Stack)
 
 A simple URL Shortener built with the **MERN stack** (MongoDB, Express, React, Node.js).
